@@ -1,2 +1,7 @@
-# timodules
-Useful Titanium modules and things
+# Useful Titanium Modules
+
+* [Keyboard](#keyboard)
+
+## Keyboard
+
+* [TiDAKeyboardControl](https://github.com/smclab/TiDAKeyboardControl) (iOS)
