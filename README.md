@@ -26,7 +26,7 @@
 
 ## UI
 
-* [Ti.BlurView](https://github.com/benbahrenburg/Ti.BlurView) **iOS** - Blur view implementation
+* [Ti.BlurView](https://github.com/benbahrenburg/Ti.BlurView) **(iOS)** - Blur view implementation
 
 ## Web Sockets
 
