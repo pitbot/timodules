@@ -4,6 +4,7 @@
 * [Maps](#maps)
 * [Misc](#misc)
 * [Push Notifications](#push-notifications)
+* [UI](#ui)
 * [Web Sockets](#web-sockets)
 
 ## Keyboard
@@ -22,6 +23,10 @@
 
 * [gcmpush](https://github.com/morinel/gcmpush) **(Android)** - Google Cloud Messaging 
 * [TiPushNotification](https://github.com/HazemKhaled/TiPushNotification) **(iOS + Android)** - General push notifications
+
+## UI
+
+* [Ti.BlurView](https://github.com/benbahrenburg/Ti.BlurView) **iOS** - Blur view implementation
 
 ## Web Sockets
 
