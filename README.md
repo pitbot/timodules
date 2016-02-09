@@ -10,9 +10,9 @@
 
 ## Analytics
 
-* (Ti.GA)[https://github.com/benbahrenburg/Ti.GA] **(iOS + Android)** - Google Analytics
-* (TitaniumAnalytics)[https://github.com/animecyc/TitaniumAnalytics) **(iOS + Android)** - Google Analytics
-* (titanium-google-analytics)[https://github.com/Sitata/titanium-google-analytics] **(iOS + Android)** - Google Analytics
+* [Ti.GA](https://github.com/benbahrenburg/Ti.GA) **(iOS + Android)** - Google Analytics
+* [TitaniumAnalytics](https://github.com/animecyc/TitaniumAnalytics) **(iOS + Android)** - Google Analytics
+* [titanium-google-analytics](https://github.com/Sitata/titanium-google-analytics) **(iOS + Android)** - Google Analytics
 
 ## Keyboard
 
