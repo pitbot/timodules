@@ -1,11 +1,18 @@
 # Useful Titanium Modules
 
+* [Analytics](#analytics)
 * [Keyboard](#keyboard)
 * [Maps](#maps)
 * [Misc](#misc)
 * [Push Notifications](#push-notifications)
 * [UI](#ui)
 * [Web Sockets](#web-sockets)
+
+## Analytics
+
+* (Ti.GA)[https://github.com/benbahrenburg/Ti.GA] **(iOS + Android)** - Google Analytics
+* (TitaniumAnalytics)[https://github.com/animecyc/TitaniumAnalytics) **(iOS + Android)** - Google Analytics
+* (titanium-google-analytics)[https://github.com/Sitata/titanium-google-analytics] **(iOS + Android)** - Google Analytics
 
 ## Keyboard
 
